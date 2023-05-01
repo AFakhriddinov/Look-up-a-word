@@ -77,7 +77,7 @@ This project was built to help English learners search and learn words easily on
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-N/A
+Explore live demo [here](https://online-dictionary1.netlify.app/)
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
