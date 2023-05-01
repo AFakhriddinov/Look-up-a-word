@@ -54,6 +54,7 @@ i {
   margin: 25px;
   color: red;
   padding-top: 6px;
+  cursor: pointer;
 }
 
 @media screen and (max-width: 500px) {
