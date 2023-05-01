@@ -26,7 +26,7 @@ async function getapi() {
         <source src="${word[0].phonetics[0].audio}" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>`
-      : `<i>No pronunciation</i>`
+      : `<h2>${inputValue}</h1>`
   }
   </div>
 
