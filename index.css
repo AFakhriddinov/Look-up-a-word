@@ -1,0 +1,66 @@
+body {
+  /* background-color: whitesmoke; */
+}
+
+.container {
+  width: 60%;
+  margin: auto;
+  background-color: whitesmoke;
+  border-radius: 20px;
+}
+
+h1 {
+  padding-top: 50px;
+  text-align: center;
+  font-style: oblique;
+}
+
+form {
+  margin: auto;
+  width: 70%;
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+}
+
+#input {
+  height: 30px;
+  width: 250px;
+  font-size: 24px;
+  border-radius: 5px;
+  outline: none;
+  border: none;
+}
+
+.submit {
+  width: 100px;
+  border: none;
+  background-color: rgb(4, 197, 4);
+  color: white;
+  border-radius: 5px;
+  margin-left: 10px;
+}
+
+.definition {
+  width: 80%;
+  margin: auto;
+  font-size: 20px;
+  margin-top: 50px;
+  font-weight: bold;
+  padding-bottom: 50px;
+}
+
+i {
+  font-weight: lighter;
+}
+
+.volume {
+  display: flex;
+  align-items: center;
+}
+
+#volume {
+  margin: 25px;
+  color: red;
+  padding-top: 6px;
+}
