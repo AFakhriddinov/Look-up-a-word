@@ -29,7 +29,7 @@ async function getapi() {
       : `<h2>${inputValue}</h1>`
   }
   </div>
-
+  <br>
     <i>${word[0].meanings[0].partOfSpeech}</i>. 
     ${word[0].meanings[0].definitions[0].definition}
     <i>Example: ${
