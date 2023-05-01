@@ -1,4 +1,5 @@
 let input = document.querySelector("#input");
+input.focus();
 
 const definition = document.querySelector(".definition");
 const api_url = "https://api.dictionaryapi.dev/api/v2/entries/en/";
